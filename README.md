@@ -16,4 +16,7 @@ Since the gathered dataset is composed of several entries, the main interest tha
 6.	How can we present the results of data in a form of dashboard?
 
 
+## Raw Data 
 
+## Data Analysis Files 
+location: notebooks/analysis1.ipynb
