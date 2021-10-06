@@ -1,4 +1,5 @@
-# Data in this directory 
+# Data 
+
 data/raw - raw data will be in this directory;
 
 data/processed - cleaned up, and processed data files will be in this directory;
